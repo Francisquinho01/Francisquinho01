@@ -1,109 +1,164 @@
-
+```md id="1uwvmp"
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B0F19,30:111827,70:FACC15,100:F59E0B&text=Aikkie%20Solu%C3%A7%C3%A3o%20Tecnol%C3%B3gica&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Tecnologia%20que%20simplifica.%20Voc%C3%AA%20cresce.&descAlignY=58&descAlign=50"/>
-
-# 🚀 Francisco Oliveira Silva
-
-### Full Stack Developer • Sistemas Inteligentes • Automação Fiscal
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,25:0B0F19,55:111827,100:FACC15&text=AIKKIE&fontSize=78&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Soluções%20Tecnológicas%20Modernas&descAlignY=58&descAlign=50"/>
 
 <br/>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=2800&pause=800&color=FACC15&center=true&vCenter=true&width=1000&lines=Francisco+Oliveira+Silva;Full+Stack+Developer;Sistemas+Inteligentes;NFSe+e+NFCe;Tecnologia+para+Pequenos+Negócios"/>
+
+<br/>
+<br/>
+
 <a href="https://port-seven-woad.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20PORTFÓLIO-0B0F19?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐%20PORTFÓLIO-000000?style=for-the-badge&logo=vercel&logoColor=FACC15"/>
 </a>
 
 <a href="https://fiscal-phi.vercel.app/">
-<img src="https://img.shields.io/badge/🔥%20AIKKIE%20FISCAL-FACC15?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/🔥%20AIKKIE%20FISCAL-FACC15?style=for-the-badge&logo=github&logoColor=000000"/>
 </a>
 
 <a href="https://github.com/Francisquinho01">
 <img src="https://img.shields.io/badge/💼%20GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="https://wa.me/5535910038088">
+<img src="https://img.shields.io/badge/📱%20WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<br/>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Francisquinho01&label=VISITANTES&color=facc15&style=for-the-badge"/>
+
 </div>
 
 ---
 
-# 🧠 Sobre Mim
+# ⚡ SOBRE
 
-<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="420" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-💡 Desenvolvedor Full Stack focado em construir experiências modernas, intuitivas e funcionais.
+### 🚀 Desenvolvedor Full Stack focado em experiências modernas, sistemas inteligentes e automação.
 
-🚀 Atualmente criando:
-- Sistema inteligente de emissão NFSe/NFCe
-- Integrações para pequenos negócios
-- Soluções modernas com React, Node.js e MySQL
-- Fluxos automatizados para sistemas fiscais
+Atualmente desenvolvendo soluções voltadas para:
 
-🎯 Objetivo:
+- ✔ Emissão inteligente de NFSe e NFCe
+- ✔ Sistemas modernos para pequenos negócios
+- ✔ Integração entre pagamentos e automação fiscal
+- ✔ Interfaces premium com React
+- ✔ APIs escaláveis com Node.js
+- ✔ Estruturas modernas em MySQL
+
+<br/>
+
+### 🎯 OBJETIVO
+
 Criar tecnologia simples, elegante e acessível para empresas locais.
 
+<br/>
 <br/>
 <br/>
 
 ---
 
-# 🚀 Projetos em Destaque
+# 🔥 PROJETOS PRINCIPAIS
 
 <div align="center">
 
 <table>
+
 <tr>
 
 <td width="50%">
 
-## 🔥 Aikkie Fiscal
+<div align="center">
 
-Sistema moderno para emissão de NFSe e NFCe.
+# 🔥 AIKKIE FISCAL
 
-✔ Interface moderna  
-✔ Fluxo simplificado  
-✔ Emissão inteligente  
-✔ Pensado para pequenos negócios
+### Sistema moderno para emissão fiscal
 
-### ⚙ Stack
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=facc15"/>
+
+</div>
+
+### ✔ Funcionalidades
+
+- Emissão de NFSe
+- Emissão de NFCe
+- Fluxos simplificados
+- Estrutura moderna
+- Interface intuitiva
+
+<br/>
+
+### ⚙ STACK
+
 React • Node.js • MySQL • Railway • Vercel
 
 <br/>
 
+<div align="center">
+
 <a href="https://fiscal-phi.vercel.app/">
-<img src="https://img.shields.io/badge/ACESSAR%20SISTEMA-FACC15?style=for-the-badge&logo=vercel&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/🚀%20ACESSAR%20SISTEMA-FACC15?style=for-the-badge&logo=vercel&logoColor=000000"/>
+
 </a>
+
+</div>
 
 </td>
 
 <td width="50%">
 
-## 🎨 Portfólio
+<div align="center">
 
-Portfólio profissional focado em experiência visual premium.
+# 🎨 PORTFÓLIO
 
-✔ UI moderna  
-✔ Estrutura premium  
-✔ Visual responsivo  
-✔ Identidade Aikkie
+### Interface premium e moderna
 
-### ⚙ Stack
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=facc15"/>
+
+</div>
+
+### ✔ Características
+
+- Visual cinematográfico
+- Estrutura moderna
+- UI responsiva
+- Identidade Aikkie
+- Experiência premium
+
+<br/>
+
+### ⚙ STACK
+
 React • Styled Components • Vite • Vercel
 
 <br/>
 
+<div align="center">
+
 <a href="https://port-seven-woad.vercel.app/">
-<img src="https://img.shields.io/badge/VER%20PORTFÓLIO-111827?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/🌐%20VER%20PORTFÓLIO-111827?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
+
+</div>
 
 </td>
 
 </tr>
+
 </table>
 
 </div>
 
 ---
 
-# 🛠️ Tecnologias
+# 🛠️ TECNOLOGIAS
 
 <div align="center">
 
@@ -121,7 +176,7 @@ React • Styled Components • Vite • Vercel
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GITHUB ANALYTICS
 
 <div align="center">
 
@@ -135,13 +190,13 @@ React • Styled Components • Vite • Vercel
 
 <div align="center">
 
-<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=Francisquinho01&theme=tokyo-night&hide_border=true&bg_color=00000000"/>
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Francisquinho01&theme=tokyo-night&hide_border=true&bg_color=00000000"/>
 
 </div>
 
 ---
 
-# 📫 Contato
+# 📫 CONTATO
 
 <div align="center">
 
@@ -159,15 +214,15 @@ React • Styled Components • Vite • Vercel
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
 # ⚡ AIKKIE
 
-### Sistemas modernos para pequenos negócios.
+### Tecnologia que simplifica. Você cresce.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0B0F19,30:111827,70:FACC15,100:F59E0B"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:000000,25:0B0F19,55:111827,100:FACC15"/>
 
 </div>
 ```
