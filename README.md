@@ -1,104 +1,96 @@
-```md
-<h1 align="center">🚀 Francisco Oliveira Silva</h1>
+<div align="center">
 
-<h3 align="center">
-Full Stack Developer • Sistemas Inteligentes • Automação Fiscal
-</h3>
+# 🚀 Francisco Oliveira Silva
 
-<p align="center">
-Desenvolvendo soluções modernas para pequenos negócios.
-</p>
+### Full Stack Developer • Aikkie Solução Tecnológica
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:facc15&height=180&section=header&text=Aikkie%20Solução%20Tecnológica&fontSize=34&fontColor=ffffff&animation=fadeIn" />
 
-# 👨‍💻 Sobre mim
+### Tecnologia que simplifica. Você cresce.
 
-💡 Desenvolvedor Full Stack focado em criar sistemas modernos, intuitivos e funcionais.
-
-⚡ Atualmente desenvolvendo:
-- Sistema de emissão NFSe/NFCe
-- Integrações para pequenos negócios
-- Soluções modernas com React e Node.js
-
-🎯 Objetivo:
-Criar tecnologia simples, rápida e acessível para empresas locais.
-
----
-
-# 🚀 Tecnologias
-
-<div style="display: inline_block"><br/>
-
-<img align="center" alt="React" height="40" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-
-<img align="center" alt="JavaScript" height="40" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-
-<img align="center" alt="NodeJS" height="40" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-
-<img align="center" alt="Express" height="40" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-
-<img align="center" alt="MySQL" height="40" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-
-<img align="center" alt="Git" height="40" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-
-<img align="center" alt="Vercel" height="40" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" />
+[🌐 Portfólio](https://port-seven-woad.vercel.app/) • [🔥 Aikkie Fiscal](https://fiscal-phi.vercel.app/) • [💼 GitHub](https://github.com/Francisquinho01)
 
 </div>
 
 ---
 
-# 🌐 Projetos
+## 🧠 Sobre
 
-## 🔥 Aikkie Fiscal
-Sistema moderno para emissão de NFSe e NFCe.
+Sou desenvolvedor Full Stack focado em criar sistemas modernos, intuitivos e funcionais para pequenos negócios.
 
-🔗 Demo:
-https://fiscal-phi.vercel.app/
+Atualmente estou construindo soluções voltadas para emissão fiscal, automação e gestão simples para empresas locais.
 
 ---
 
-## 🎨 Portfolio
-Meu portfolio profissional.
+## 🚀 Projetos em destaque
 
-🔗 Demo:
-https://port-seven-woad.vercel.app/
+<table>
+<tr>
+<td width="50%">
+
+### 🔥 Aikkie Fiscal
+
+Sistema moderno para emissão de **NFSe e NFCe**, pensado para simplificar a rotina de pequenos negócios.
+
+**Tecnologias:** React, Node.js, MySQL, Vercel, Railway
+
+[🔗 Acessar sistema](https://fiscal-phi.vercel.app/)
+
+</td>
+<td width="50%">
+
+### 🎨 Portfólio
+
+Meu portfólio profissional com projetos, tecnologias, história e formas de contato.
+
+**Tecnologias:** React, Vite, Styled Components, Vercel
+
+[🔗 Acessar portfólio](https://port-seven-woad.vercel.app/)
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 📊 GitHub Stats
+## 🛠️ Tecnologias
 
 <div align="center">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=Francisquinho01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francisquinho01&layout=compact&langs_count=7&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,js,html,css,mysql,git,github,vercel,vscode" />
 
 </div>
 
 ---
 
-# 📫 Contato
+## 📊 GitHub
 
-📱 WhatsApp: (35) 91003-8088
+<div align="center">
 
-📸 Instagram:
-@aikkie.solucao
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Francisquinho01&show_icons=true&theme=tokyonight&hide_border=true" />
 
-💼 GitHub:
-https://github.com/Francisquinho01
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francisquinho01&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-<h3 align="center">
-⚡ Tecnologia que simplifica. Você cresce.
-</h3>
-```
+## 📫 Contato
+
+<div align="center">
+
+📱 WhatsApp: **(35) 91003-8088**  
+📸 Instagram: **@aikkie.solucao**  
+🌐 Portfólio: https://port-seven-woad.vercel.app/
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Aikkie Solução Tecnológica
+
+**Sistemas modernos para pequenos negócios.**
+
+</div>
