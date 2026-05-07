@@ -1,4 +1,4 @@
-```md id="1uwvmp"
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,25:0B0F19,55:111827,100:FACC15&text=AIKKIE&fontSize=78&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Soluções%20Tecnológicas%20Modernas&descAlignY=58&descAlign=50"/>
